@@ -1,8 +1,8 @@
 ## MEFrpLib
 
-<p align="right">based on ME Frp API<br>presented by LxHTT</p>
+<p align="right">based on ME Frp 4.0 API<br>presented by LxHTT</p>
 
-这是一个封装了ME Frp API的Python库。
+这是一个封装了 ME Frp 4.0 API 的Python库。
 
 ### 安装
 
